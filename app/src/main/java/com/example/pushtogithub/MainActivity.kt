@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
     }
   fun add(){
       var a=1+3
+      var a1=1+3
   }
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.
